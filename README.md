@@ -1,9 +1,64 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takayuki_okazawa)](https://github.com/anuraghazra/github-readme-stats)
+Profile
+地球にいます。結構移動します
+Emacs頑張ってましたが、最近はもういいやってVSCode使ってます
+Dvorak配列使ってます。
+Reactの知見を広げる。Ruby on Railsの知見を広げる。GraphQL
+GithubActionsでできること増やしたい。だいたいスクラム開発、
+英語話せるようにしたい。もうちょっと本読みたい、技術情報通知登録してるけど見れてない
+ChatGPTにやってほしい、
 
-https://github.com/takayuki-okazawa/github-readme-stats.git
-https://vercel.com/takayuki-okazawa/github-readme-stats/GYUMA3NwqmDVXkQbFANShfLnz7Wz
-github-readme-stats-gqt5h4q6a-takayuki-okazawa.vercel.app
+Skils
+各アイコン とグラフにするか、あと勉強強化中なのは　トレンドとかつける
+>Langage
+JavaScript
+TypeScript
+Ruby
+Java
+Python
+Bash
+Zsh
+Objective-C
+Swift
+C/C++
+C#
 
-[![Anurag's GitHub stats](https://github-readme-stats-rho-brown.vercel.app/api?username=takayuki_okazawa)](https://github.com/anuraghazra/github-readme-stats)
+>Framework
+React
+Ruby on Rails
+Django/ Botle
+Next
+Node
+Spring Boot
+React Native
+Riot
+Vue
+Unity
+
+>DB Cash
+MySQL
+PostgreSQL
+MongoDB
+Redis
+
+>Infra
+GithubActions
+AWS        EDS/ Elastic Search. / EC2 / RDS
+Git
+Docker
+GCP
+
+>Tool
+Emacs, VSCode, Zenhub. Figma
+
+好きな本
+スクラムミーティング
+
+Hoby
+
+Work Music
+
+Fotter
+アニメーション？
+SNSのリンクボタン
