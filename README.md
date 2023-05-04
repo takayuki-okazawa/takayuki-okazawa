@@ -19,7 +19,7 @@ TypeScript
 Ruby
 ![]()
 
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-1024.png" alt="犬" title="画像タイトル">
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-1024.png" width="20px">
 
 Java
 Python
