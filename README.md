@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takayuki_okazawa)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=hoge&count_private=true&show_icons=true&theme=dracula
