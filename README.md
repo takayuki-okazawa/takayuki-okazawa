@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Takayuki Okazawa
 
 Profile
 地球にいます。結構移動します
@@ -15,6 +15,7 @@ Skils
 JavaScript
 TypeScript
 Ruby
+![](https://www.iconfinder.com/icons/3069735/circle_programming_rails_round_icon_ruby_ruby_rails_icon)
 Java
 Python
 Bash
