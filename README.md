@@ -14,8 +14,13 @@ Skils
 >Langage
 JavaScript
 TypeScript
+
+
 Ruby
-![](https://www.iconfinder.com/icons/3069735/circle_programming_rails_round_icon_ruby_ruby_rails_icon)
+![]()
+
+<img src="https://www.iconfinder.com/icons/3069735/circle_programming_rails_round_icon_ruby_ruby_rails_icon" alt="犬" title="画像タイトル">
+
 Java
 Python
 Bash
