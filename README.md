@@ -27,7 +27,8 @@ ChatGPTで何かできるようになりたい、VSCodeもっと慣れる、VR�
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📕 Favorite books
-<p align="left"> <a href="https://www.amazon.co.jp/アジャイルサムライ――達人開発者への道-ＪｏｎａｔｈａｎＲａｓｍｕｓｓｏｎ-ebook/dp/B00J1XKB6K" target="_blank" rel="noreferrer"> <img src="https://m.media-amazon.com/images/I/51lm0alurNL.jpg" alt="android" width="175px" height="250px"/> </a>
+<p align="left">
+ <a href="https://www.amazon.co.jp/アジャイルサムライ――達人開発者への道-ＪｏｎａｔｈａｎＲａｓｍｕｓｓｏｎ-ebook/dp/B00J1XKB6K" target="_blank" rel="noreferrer"> <img src="https://m.media-amazon.com/images/I/51lm0alurNL.jpg" alt="android" width="175px" height="250px"/> </a>
  <a href="https://www.oreilly.co.jp/books/9784873115658/" target="_blank" rel="noreferrer"> <img src="https://www.oreilly.co.jp/books/images/picture_large978-4-87311-565-8.jpeg" alt="android" width="175px" height="250px"/> </a>
 </p>
   
