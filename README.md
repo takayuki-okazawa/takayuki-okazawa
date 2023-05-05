@@ -1,12 +1,9 @@
 <h1 align="left">Hi 👋, I'm Takayuki</h1>
 <h3 align="left">A passionate frontend and backend developer from Japan</h3>
-Emacs頑張ってました、最近はVSCode使ってます
-Dvorak配列使ってます。だいたいスクラム開発
-
-強化中
-Reactの知見を広げる。Ruby on Railsの知見を広げる。GraphQL
-GithubActions、ChatGPTでできること増やしたい。
-VSCodeもっと慣れる
+Emacs頑張ってましたが最近はVSCode使ってます。
+Dvorak配列使ってます、だいたいスクラム開発
+Reactの知見を広げる。Ruby on Railsの知見を広げる。GraphQL、GithubActionsでできること増やしたい。
+ChatGPTで何かできるようになりたい、VSCodeもっと慣れる
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
