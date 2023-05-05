@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Takayuki</h1>
-<h3 align="left">A passionate frontend and backend developer from India</h3>
+<h3 align="left">A passionate frontend and backend developer from Japan</h3>
 Emacs頑張ってました、最近はVSCode使ってます
 Dvorak配列使ってます。だいたいスクラム開発
 
