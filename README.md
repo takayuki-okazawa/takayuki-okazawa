@@ -1,11 +1,12 @@
 <h1 align="left">Hi 👋, I'm Takayuki</h1>
 <h3 align="left">A passionate frontend and backend developer from Japan</h3>
+
 I've been working hard with Emacs, but recently I'm using VSCode.
 I use Dvorak keybord, mostly Scrum development.
 study assignment is React, Rails, GraphQL, GithubActions, ChatGPT, VR
 
-Emacs頑張ってましたが最近はVSCode使ってます。
-Dvorak配列使ってます、だいたいスクラム開発です。
+
+Emacs頑張ってましたが最近はVSCode使ってます。Dvorak配列使ってます、だいたいスクラム開発です。
 Reactの知見を広げる。Ruby on Railsの知見を広げる。GraphQL、GithubActionsでできること増やしたい。
 ChatGPTで何かできるようになりたい、VSCodeもっと慣れる、VRとか興味出てきた
 
