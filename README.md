@@ -3,7 +3,7 @@
 Emacs頑張ってましたが最近はVSCode使ってます。
 Dvorak配列使ってます、だいたいスクラム開発です。
 Reactの知見を広げる。Ruby on Railsの知見を広げる。GraphQL、GithubActionsでできること増やしたい。
-ChatGPTで何かできるようになりたい、VSCodeもっと慣れる
+ChatGPTで何かできるようになりたい、VSCodeもっと慣れる、VRとか興味出てきた
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
