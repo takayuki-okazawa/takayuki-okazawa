@@ -28,12 +28,12 @@ ChatGPTで何かできるようになりたい、VSCodeもっと慣れる、VR�
 
 ## 📕 Favorite books
 <h3 align="left">Favorite books:</h3>
-<p align="left"> <a href="https://www.amazon.co.jp/アジャイルサムライ――達人開発者への道-ＪｏｎａｔｈａｎＲａｓｍｕｓｓｏｎ-ebook/dp/B00J1XKB6K" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.co.jp%2F%25E3%2582%25A2%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25B5%25E3%2583%25A0%25E3%2583%25A9%25E3%2582%25A4%25E2%2580%2595%25E2%2580%2595%25E9%2581%2594%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E8%2580%2585%25E3%2581%25B8%25E3%2581%25AE%25E9%2581%2593-%25EF%25BC%25AA%25EF%25BD%258F%25EF%25BD%258E%25EF%25BD%2581%25EF%25BD%2594%25EF%25BD%2588%25EF%25BD%2581%25EF%25BD%258E%25EF%25BC%25B2%25EF%25BD%2581%25EF%25BD%2593%25EF%25BD%258D%25EF%25BD%2595%25EF%25BD%2593%25EF%25BD%2593%25EF%25BD%258F%25EF%25BD%258E-ebook%2Fdp%2FB00J1XKB6K&psig=AOvVaw2MVNucPuPXCrDWiactYHae&ust=1683365084889000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLi84OHt3f4CFQAAAAAdAAAAABAD" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.amazon.co.jp/アジャイルサムライ――達人開発者への道-ＪｏｎａｔｈａｎＲａｓｍｕｓｓｏｎ-ebook/dp/B00J1XKB6K" target="_blank" rel="noreferrer"> <img src="https://m.media-amazon.com/images/I/51lm0alurNL.jpg" alt="android" width="40" height="40"/> </a>
 </p>
   
 ### 📮 Connect with me
 <p align="left">
-<a href="https://twitter.com/taka_nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taka_nn" height="30" width="40" /></a>
+<a href="https://twitter.com/taka_nn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taka_nn" height="500" width="350" /></a>
 <a href="https://linkedin.com/in/taiayuki-okazawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiayuki-okazawa" height="30" width="40" /></a>
 <a href="https://fb.com/takayuki.okazawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="takayuki.okazawa" height="30" width="40" /></a>
 </p>
